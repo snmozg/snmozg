@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba, ben Sinem Özge</h1>
-<h3 align="center">Genç ve azimli bir geliştirici.</h3>
+<h1 align="center">Hi. It's me, Sinem Özge</h1>
+<h3 align="center">A passionate Junior Kotlin developer from Turkey</h3>
 
 - 🔭 I’m currently working on **InstagramClone**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/snmozg](https://github.com/snmozg)
 
-- 💬 Ask me about **Kotlin, Flutter**
+- 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **sozgeozkartal@gmail.com**
 
