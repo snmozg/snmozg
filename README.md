@@ -1,8 +1,7 @@
 <h1 align="center">Hi. It's me, Sinem Özge</h1>
 <h3 align="center">A passionate Junior Kotlin developer from Turkey</h3>
 
-- 🔭 I’m currently working on **InstagramClone**
-
+- 🔭 I’m currently working on [Securion]([)](https://github.com/snmozg/Securion)
 - 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/snmozg](https://github.com/snmozg)
