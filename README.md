@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I’m a Junior Kotlin Developer.
+👨🏻‍💻 I’m a Mobile Developer.
 
 
 ## 🌐 Socials:
