@@ -1,18 +1,46 @@
-# 💫 About Me:
-👨🏻‍💻 I’m a Mobile Developer.
+# 🚀 Hi there, I'm Sinem Özge! 
+### Multidisciplinary Software Engineer | Mobile • Web • AI Automation • QA
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20views&color=0e75b6&style=flat" alt="snmozg" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinemozge) 
+---
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snmozg&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=snmozg&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snmozg&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 💫 About Me
+Mühendislik merakımı; mobil uygulama geliştirme, web ekosistemleri ve AI otomasyon süreçleriyle birleştiriyorum. Sadece kod yazmıyorum, aynı zamanda bu süreçlerin test otomasyonu ve sürdürülebilirliği üzerine odaklanıyorum.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📱 **Mobile:** Cross-platform (Flutter, React Native) ve Native (Kotlin) çözümler.
+- 🌐 **Web:** Modern ve ölçeklenebilir web uygulamaları.
+- 🤖 **AI & Automation:** n8n ve Node.js ile akıllı iş akışları ve asistanlar.
+- 🧪 **Test Engineering:** Kalite odaklı, sağlam ve test edilmiş yazılım mimarileri.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠 Tech Stack
+
+**Mobile & Web**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI & Automation & DB**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Design**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=snmozg&theme=omni&show_icons=true&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmozg&theme=omni&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmozg&theme=omni&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinemozge)
