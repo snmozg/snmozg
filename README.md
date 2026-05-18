@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Sinem Özge 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7F52FF&center=false&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Full+Stack+Developer;Test+Engineer;Business+Analyst;AI+Automation+Builder)](https://git.io/typing-svg)
@@ -86,4 +85,4 @@ My focus is not only writing code — but creating scalable, sustainable and hig
 <p align="center">
   <i>Building products where engineering, automation and user experience meet.</i>
 </p>
-```
+
