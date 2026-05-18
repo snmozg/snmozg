@@ -1,6 +1,6 @@
 # Hi, I'm Sinem Özge 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7F52FF&center=false&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Full+Stack+Developer;Test+Engineer;Business+Analyst;AI+Automation+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=400&color=FF4FD8&vCenter=true&width=750&lines=Software+Engineer;Mobile+Developer;Full+Stack+Developer;Test+Engineer;Business+Analyst;AI+Automation+Builder)](https://git.io/typing-svg)
 
 ### Multidisciplinary Engineer building scalable mobile, web and AI-powered systems.
 
@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/sinemozge">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20Views&color=7F52FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20Views&color=ff4fd8&style=for-the-badge" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ My focus is not only writing code — but creating scalable, sustainable and hig
 
 ### AI & Automation
 <p>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF4FD8?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
@@ -85,4 +85,3 @@ My focus is not only writing code — but creating scalable, sustainable and hig
 <p align="center">
   <i>Building products where engineering, automation and user experience meet.</i>
 </p>
-
