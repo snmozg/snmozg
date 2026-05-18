@@ -6,8 +6,9 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/sinemozge">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF4FD8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20Views&color=ff4fd8&style=for-the-badge" />
 </p>
 
@@ -29,21 +30,25 @@ My focus is not only writing code — but creating scalable, sustainable and hig
 ## ⚡ Tech Stack
 
 ### Mobile Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,dart" />
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgres" />
 </p>
 
 ### Tools & Workflow
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
 </p>
 
 ### AI & Automation
+
 <p>
   <img src="https://img.shields.io/badge/n8n-FF4FD8?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
@@ -59,24 +64,11 @@ My focus is not only writing code — but creating scalable, sustainable and hig
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snmozg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmozg&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmozg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/sinemozge">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF4FD8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
