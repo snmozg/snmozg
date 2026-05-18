@@ -1,46 +1,89 @@
-# 🚀 Hi there, I'm Sinem Özge! 
-### Multidisciplinary Software Engineer | Mobile • Web • AI Automation • QA
+```md
+# Hi, I'm Sinem Özge 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7F52FF&center=false&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Full+Stack+Developer;Test+Engineer;Business+Analyst;AI+Automation+Builder)](https://git.io/typing-svg)
+
+### Multidisciplinary Engineer building scalable mobile, web and AI-powered systems.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20views&color=0e75b6&style=flat" alt="snmozg" />
+  <a href="https://linkedin.com/in/sinemozge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=snmozg&label=Profile%20Views&color=7F52FF&style=for-the-badge" />
 </p>
 
 ---
 
-### 💫 About Me
-Mühendislik merakımı; mobil uygulama geliştirme, web ekosistemleri ve AI otomasyon süreçleriyle birleştiriyorum. Sadece kod yazmıyorum, aynı zamanda bu süreçlerin test otomasyonu ve sürdürülebilirliği üzerine odaklanıyorum.
+## 🚀 About Me
 
-- 📱 **Mobile:** Cross-platform (Flutter, React Native) ve Native (Kotlin) çözümler.
-- 🌐 **Web:** Modern ve ölçeklenebilir web uygulamaları.
-- 🤖 **AI & Automation:** n8n ve Node.js ile akıllı iş akışları ve asistanlar.
-- 🧪 **Test Engineering:** Kalite odaklı, sağlam ve test edilmiş yazılım mimarileri.
+I build digital products across mobile, web and AI ecosystems.  
+My focus is not only writing code — but creating scalable, sustainable and high-quality software systems.
 
----
-
-### 🛠 Tech Stack
-
-**Mobile & Web**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**AI & Automation & DB**
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools & Design**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 📱 Cross-platform & native mobile applications
+- 🌐 Full-stack web development
+- 🤖 AI automations & workflow systems
+- 🧪 Test engineering & software quality
+- 📊 Product thinking & business analysis
 
 ---
 
-### 📊 My GitHub Journey
+## ⚡ Tech Stack
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,dart" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgres" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+</p>
+
+### AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Currently Building
+
+- AI-powered workflow systems
+- Mobile-first digital products
+- Smart automation infrastructures
+- Scalable and testable architectures
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=snmozg&theme=omni&show_icons=true&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmozg&theme=omni&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snmozg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmozg&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmozg&theme=omni&hide_border=true&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmozg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinemozge)
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sinemozge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building products where engineering, automation and user experience meet.</i>
+</p>
+```
